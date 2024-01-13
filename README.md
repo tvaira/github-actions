@@ -94,7 +94,7 @@ Voi aussi : https://github.com/btssn-lasalle84/badges
 
 Voir aussi : des _workflows_ (Python, Android, Java, ...) pour la notation automatique (basée sur des tests logiciels) sont utilisés dans les devoirs [Github Classroom](https://classroom.github.com/)
 
-    https://github.com/tvaira/github-classroom
+https://github.com/tvaira/github-classroom
 
 ---
 ©️ LaSalle Avignon - <thierry.vaira@gmail.com>
